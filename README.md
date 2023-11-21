@@ -1,21 +1,22 @@
-# LearNet
+# LearNet\\
 LEARNet: Dynamic imaging network for micro expression recognition\\
 
 
 **Dynamic Imaging:**
-run "example.py"
+run "example.py"\\
 _Note:_ /vid    #video folder for dynamic image generation!\\
 
 
 
 **LearNet Architecture:**
-To create a structure of the model, run the demo.py file.
-!!! THE CODE IS SUPPOSED TO BE RUN IN THE UBUNTU SYSTEM, TO RUN IT IN WINDOWS, PLEASE CHANGE THE FILE PATH IN THE CODES ACCORDINGLY !!!
+\\
+To create a structure of the model, run the demo.py file.\\
+!!! THE CODE IS SUPPOSED TO BE RUN IN THE UBUNTU SYSTEM, TO RUN IT IN WINDOWS, PLEASE CHANGE THE FILE PATH IN THE CODES ACCORDINGLY !!!\\
 
 
 
-**Citation**
-If you find our work useful, please consider citing our paper:
+**Citation**\\
+If you find our work useful, please consider citing our paper:\\
 
 
 
