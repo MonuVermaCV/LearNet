@@ -10,6 +10,9 @@ _Note:_ /vid    #video folder for dynamic image generation!
 **LearNet Architecture:**
 
 To create a structure of the model, run the demo.py file.
+
+
+
 !!! THE CODE IS SUPPOSED TO BE RUN IN THE UBUNTU SYSTEM, TO RUN IT IN WINDOWS, PLEASE CHANGE THE FILE PATH IN THE CODES ACCORDINGLY !!!
 
 
