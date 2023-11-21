@@ -1,10 +1,10 @@
-# LearNet\
-LEARNet: Dynamic imaging network for micro expression recognition\
+# LearNet
+LEARNet: Dynamic imaging network for micro expression recognition
 
 
 **Dynamic Imaging:**
-run "example.py"\
-_Note:_ /vid    #video folder for dynamic image generation!\
+run "example.py"
+_Note:_ /vid    #video folder for dynamic image generation!
 
 
 **LearNet Architecture:**
